@@ -6,7 +6,7 @@ rdiscount:
   extensions: [smart]
 
 name: Hacker Within 
-url: http://thehackerwithin.github.com/yale
+url: http://wackywendell.github.com/hackerwithin
 description: An initial blog and site for THW at Yale
 twitter: hackerwithin
 github: thehackerwithin
