@@ -1,0 +1,9 @@
+---
+layout: post
+title: Planning Meeting
+comments: true
+category: posts
+tags: meeting
+---
+
+Ana, Camille, and Wendell met and discussed bringing Software Carpentry here to Yale. Funding options such as the physics department, PEB / The Sackler Institute, and WISAY were considered, and some emails were sent.
