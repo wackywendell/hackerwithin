@@ -21,7 +21,7 @@ You might put a summary of the meeting here. Whatever.
 
 For more about markdown :
 
--    Look on the internet, e.g. (here)[http://daringfireball.net/projects/markdown/syntax]
+-    Look on the internet, e.g. [here](http://daringfireball.net/projects/markdown/syntax)
 -    you'll see that there are a lot of tutorials.
 -    Mostly, you'll just need to know about the headings and how to make 
      lists and hyperlinks.
